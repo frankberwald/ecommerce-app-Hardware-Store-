@@ -1,0 +1,170 @@
+{
+  "users": [
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin",
+    "email": "email@email.com"
+  },
+  {
+    "id": 2,
+    "username": "franklin",
+    "password": "franklin123",
+    "email": "franklin@franklin.com"
+  }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Furadeira Elétrica",
+      "brand": "Black & Decker",
+      "price": 299.99,
+      "description": "Furadeira elétrica com 3 modos de operação: perfuração, impacto e parafusamento.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_689479-MLB73873746439_012024-O.webp"
+    },
+    {
+      "id": 2,
+      "name": "Parafusadeira",
+      "brand": "Makita",
+      "price": 199.99,
+      "description": "Parafusadeira portátil com velocidade variável e design ergonômico.",
+      "image": "https://www.rmferramentas.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/p/a/parafusadeira-furadeira-de-impacto-2-bat-2ah-40v-bivolt-maleta-hp002ga201-makita_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Serra Circular",
+      "brand": "Bosch",
+      "price": 399.99,
+      "description": "Serra circular de 7 1/4\" com lâmina de alta performance.",
+      "image": "https://acdn.mitiendanube.com/stores/001/383/803/products/standard_resolution-d5ce32d925a728767f16741383634371-640-0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Martelo Demolidor",
+      "brand": "DeWalt",
+      "price": 899.99,
+      "description": "Martelo demolidor com potente motor de 1500W e alta durabilidade.",
+      "image": "https://img.lojadomecanico.com.br/IMAGENS/21/230/18675/Martelo-Demolidor-SDS-Maximo-19J-11kg-15-dewalt-d25901k1.JPG"
+    },
+    {
+      "id": 5,
+      "name": "Lixadeira Orbital",
+      "brand": "Einhell",
+      "price": 149.99,
+      "description": "Lixadeira orbital leve e fácil de manusear, ideal para acabamentos finos.",
+      "image": "https://cdn.leroymerlin.com.br/products/lixadeira_roto_orbital_te_rs_40_e_400w_127v_einhell_90579671_0cd3_600x600.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Chave de Fenda Elétrica",
+      "brand": "Ryobi",
+      "price": 99.99,
+      "description": "Chave de fenda elétrica com cabo ergonômico e bateria de longa duração.",
+      "image": "https://m.media-amazon.com/images/I/710EjR1BBiL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kit de Ferramentas",
+      "brand": "Stanley",
+      "price": 249.99,
+      "description": "Kit completo com 150 ferramentas essenciais para reparos e manutenções.",
+      "image": "https://m.media-amazon.com/images/I/619XJ8nVPKL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cortador de Grama",
+      "brand": "Gardena",
+      "price": 499.99,
+      "description": "Cortador de grama elétrico com regulagem de altura e sistema de corte preciso.",
+      "image": "https://d14awsx3r7mhwc.cloudfront.net/Custom/Content/Products/98/92/989268_cortador-de-grama-manual-classic-400-gardena-40-cm_m1_637919209019501635.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Compressores de Ar",
+      "brand": "Schulz",
+      "price": 699.99,
+      "description": "Compressor de ar com alta capacidade e motor potente, ideal para uso profissional.",
+      "image": "https://cdn.awsli.com.br/600x700/767/767489/produto/127848095/19ca864ffc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Luz de Trabalho LED",
+      "brand": "Philips",
+      "price": 79.99,
+      "description": "Luz de trabalho portátil com LED de alta luminosidade e bateria recarregável.",
+      "image": "https://images.philips.com/is/image/philipsconsumer/a064633f458a407d8ddaafa9006b724a?&wid=309&hei=309&$jpglarge$"
+    },
+    {
+      "id": 11,
+      "name": "Torre de Luz",
+      "brand": "DeWalt",
+      "price": 199.99,
+      "description": "Torre de luz portátil com altura ajustável e iluminação LED.",
+      "image": "https://images.tcdn.com.br/img/img_prod/388289/torre_de_iluminacao_sem_fio_dewalt_dcl079b_com_bateria_20v_5115_1_31e2c7f05d6e5f6ad507d3d1be1cf1ad.png"
+    },
+    {
+      "id": 12,
+      "name": "Serra Tico-Tico",
+      "brand": "Dewalt",
+      "price": 349.99,
+      "description": "Serra tico-tico com motor potente e controle de velocidade.",
+      "image": "https://cdn.leroymerlin.com.br/products/serra_tico_tico_650w_dwe300_220v_dewalt_91037926_0001_600x600.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Lixadeira de Cinta",
+      "brand": "Makita",
+      "price": 279.99,
+      "description": "Lixadeira de cinta com design ergonômico e potência de 900W.",
+      "image": "https://imageswscdn.wslojas.com.br/files/21903/MED_476501.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chave de Impacto",
+      "brand": "Ryobi",
+      "price": 399.99,
+      "description": "Chave de impacto elétrica ideal para parafusamento em materiais resistentes.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_741732-MLU77388718999_072024-O.webp"
+    },
+    {
+      "id": 15,
+      "name": "Guilhotina Podadora",
+      "brand": "Tramontina",
+      "price": 149.99,
+      "description": "Guilhotina elétrica para cortes precisos em galhos.",
+      "image": "https://images.tcdn.com.br/img/img_prod/740250/90_kit_podador_galhos_altos_cabo_extensivel_3m_serrote_tramontina_965_1_7ba1fa3c19c92efa0430c218d7b75200.png"
+    },
+    {
+      "id": 16,
+      "name": "Pistola de Cola Quente",
+      "brand": "Bosch",
+      "price": 89.99,
+      "description": "Pistola de cola quente com controle de temperatura e bico de precisão.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnC3he94dAKKpKNfJj9MCzZsKh85OpyNj2Ng&s"
+    },
+    {
+      "id": 17,
+      "name": "Máquina de Solda",
+      "brand": "Miller",
+      "price": 1299.99,
+      "description": "Máquina de solda inversora portátil para uso em metal e reparos.",
+      "image": "https://cdn.bnws2.com.br/lcsoldas.com.br/image/cache/data/produtos/maq.%20miller/inversor-de-solda-dynasty-280-multiprocesso---miller-01-926x926.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Furadeira de Coluna",
+      "brand": "Manrod",
+      "price": 599.99,
+      "description": "Furadeira de coluna com precisão e velocidade ajustável.",
+      "image": "https://manrod.com.br/wp-content/uploads/2022/02/MR-600.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Multímetro Digital",
+      "brand": "Fluke",
+      "price": 199.99,
+      "description": "Multímetro digital de alta precisão para medições elétricas.",
+      "image": "https://dam-assets.fluke.com/s3fs-public/styles/product_slideshow_main/public/fluke-87v-max.jpg"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import { useCart } from "../../context/CartContext";
 export const HomePage = () => {
     return (
         <View>
-            <Text></Text>
+            <Text>This is my homePage</Text>
         </View>
     )
 }
